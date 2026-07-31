@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zack While | Personal Website"
+title                    : "Zack While"
 title_separator          : "-"
 name                     : &name "Zack While"
 description              : &description "Zack While's academic portfolio."   # Update this with a general description of your site, this is the default if not overridden by a page
