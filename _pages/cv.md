@@ -12,5 +12,5 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, University of Massachusetts Amherst, 2025
-* M.S. in Computer Science, 2021
+* M.S. in Computer Science, University of Massachusetts Amherst, 2021
 * B.S. in Computer Science and Mathematics, Youngstown State University, 2018
