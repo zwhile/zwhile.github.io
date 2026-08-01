@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2024-06-gerontovis
 excerpt: "A position paper introducing GerontoVis, a new subfield focused on designing and evaluating data visualizations for older adults."
-date: 2024-05-01
+date: 2024-06-01
 venue: "Computer Graphics Forum"
 citation: 'While, Z., Crouser, R. J., & Sarvghad, A. (2024). "GerontoVis: Data Visualization at the Confluence of Aging." <i>Computer Graphics Forum</i>, 43(3), e15101.'
 ---
