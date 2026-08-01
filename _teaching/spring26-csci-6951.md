@@ -1,6 +1,6 @@
 ---
 collection: teaching
-date: 2025-01-05
+date: 2026-01-05
 excerpt: <i>Graduate Course, Instructor</i><br/> CSCI 6951 introduces students
   to the data science pipeline and machine learning. Topics include data acquisition,
   preprocessing, visualization, feature engineering, classification, clustering,
