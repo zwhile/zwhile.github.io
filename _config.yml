@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Zack While"
+title                    : "Zack While, PhD"
 title_separator          : "|"
-name                     : &name "Zack While"
+name                     : &name "Zack While, PhD"
 description              : &description "Zack While's academic portfolio."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://zwhile.prof # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io", or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Zachary L. While"
-  pronouns         : # example: "she/her"
+  pronouns         : "he/him"
   bio              : "Assistant Professor of Computer Science and Information Systems"
   location         : "Youngstown, Ohio, USA"
   employer         : "Youngstown State University"
