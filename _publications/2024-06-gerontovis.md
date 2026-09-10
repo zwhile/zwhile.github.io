@@ -6,10 +6,10 @@ permalink: /publication/2024-06-gerontovis
 excerpt: "A position paper introducing GerontoVis, a new subfield focused on designing and evaluating data visualizations for older adults."
 date: 2024-06-01
 venue: "Computer Graphics Forum"
-citation: 'While, Z., Crouser, R. J., & Sarvghad, A. (2024). "GerontoVis: Data Visualization at the Confluence of Aging." <i>Computer Graphics Forum</i>, 43(3), e15101.'
+citation: 'While, Z., Crouser, R. J., & Sarvghad, A. (2024). "GerontoVis: Data Visualization at the Confluence of Aging." <i>Computer Graphics Forum</i>, 43(3).'
 ---
 
-[arXiv Link](https://arxiv.org/pdf/2403.13173){: .btn .btn--primary}
+[arXiv PDF Link](https://arxiv.org/pdf/2403.13173){: .btn .btn--primary}
 
 **Abstract**: *Despite the explosive growth of the aging population worldwide, older adults have been largely overlooked by visualization research. This paper is a critical reflection on the underrepresentation of older adults in visualization research.
 We discuss why investigating visualization at the intersection of aging matters, why older adults may have been omitted from sample populations in visualization research, how aging may affect visualization use, and how this differs from traditional accessibility research.
