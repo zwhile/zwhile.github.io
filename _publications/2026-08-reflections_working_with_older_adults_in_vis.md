@@ -6,7 +6,7 @@ permalink: /publication/2026-08-working-with-older-adults
 excerpt: "Reflections and methodological takeaways from human-subject studies with older adults to guide and encourage broader inclusion in visualization research."
 date: 2026-08-21
 venue: "3rd Workshop on Accessible Data Visualization (AccessViz), IEEE VIS"
-citation: 'While, Z. (2026). "Reflections on Working with Older Adults in Visualization Research." <i>3rd Workshop on Accessible Data Visualization (AccessViz), 2026 IEEE Visualization and Visual Analytics.</i>.'
+citation: 'While, Z. (2026). "Reflections on Working with Older Adults in Visualization Research." <i>3rd Workshop on Accessible Data Visualization (AccessViz), 2026 IEEE Visualization and Visual Analytics.</i>'
 
 ---
 

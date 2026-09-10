@@ -2,6 +2,7 @@
 permalink: /
 title: "About"
 author_profile: true
+seo_title: "Zack While, PhD" 
 redirect_from:
   - /about/
   - /about.html
