@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-05-glanceable
 excerpt: 'A replication study examining glanceable smartwatch visualizations for older adults and identifying age-related differences in visualization perception.'
 date: 2024-05-11
-venue: 'CHI 2024: Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems'
+venue: 'CHI Conference on Human Factors in Computing Systems (CHI)'
 citation: 'While, Z., Blascheck, T., Gong, Y., Isenberg, P., & Sarvghad, A. (2024). "Glanceable Data Visualizations for Older Adults: Establishing Thresholds and Examining Disparities Between Age Groups." <i>Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems</i>.'
 ---
 

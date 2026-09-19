@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2024-10-embedded-information-displays
 excerpt: "A qualitative study exploring how older adults experience and interact with embedded information displays on everyday household appliances."
 date: 2024-10-13
-venue: "1st Workshop on Accessible Data Visualization (AccessViz), IEEE VIS"
+venue: "1st Workshop on Accessible Data Visualization (AccessViz), IEEE Visualization and Visual Analytics (VIS)"
 citation: 'While, Z., Wheeler-Klainberg, H., Blascheck, T., Isenberg, P., & Sarvghad, A. (2024). "Toward Understanding the Experiences of People in Late Adulthood with Embedded Information Displays in the Home." <i>1st Workshop on Accessible Data Visualization (AccessViz), 2024 IEEE Visualization and Visual Analytics (VIS)</i>, 14-18.'
 ---
 

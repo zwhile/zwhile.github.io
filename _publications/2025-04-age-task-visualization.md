@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2025-04-age-task-visualization
 excerpt: "An empirical study examining how age interacts with visualization type and analytical task performance, providing evidence and guidance for aging-inclusive visualization design."
 date: 2025-04-01
-venue: "CHI 2025: Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems"
+venue: "CHI Conference on Human Factors in Computing Systems"
 citation: 'While, Z., & Sarvghad, A. (2025). "Toward Filling a Critical Knowledge Gap: Charting the Interactions of Age with Task and Visualization." <i>Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</i>.'
 ---
 

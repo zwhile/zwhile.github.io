@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-08-neural-encoding-model-fmri-vis
 excerpt: "Evaluating whether Meta's Tribe V2 neural encoding model can reproduce neural contrasts from a prior fMRI-based visualization study, exploring the potential of in-silico neuroimaging for visualization research."
 date: 2026-08-18
-venue: "VISxVISION Workshop, IEEE VIS 2026"
+venue: "VISxVISION Workshop, IEEE Visualization and Visual Analytics (VIS)"
 citation: 'Orang, E. N., & While, Z. (2026). "Can a Neural Encoding Model Replicate an fMRI Visualization Study?" <i>VISxVISION Workshop, 2026 IEEE Visualization and Visual Analytics (VIS).</i>'
 
 ---
